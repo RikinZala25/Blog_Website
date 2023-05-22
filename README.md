@@ -7,4 +7,4 @@ To preview the project, simply download the project and open terminal and comman
 This will install all the required modules specified in package.json.
 
 After that, command "npm app.js" / "nodemon app.js" in root directory.\
-Deployment Link: [Codesandbox](https://pne0sy.sse.codesandbox.io/)
+Deployment Link: [Codesandbox](https://pne0sy.sse.codesandbox.io/) / [CSB](https://dv2h9n-3000.csb.app/)
